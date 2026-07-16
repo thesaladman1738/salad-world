@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+    <head>
+         <title>salad's world</title>
+    </head>
+
+    <body>
+        
+        <div>
+            <h1 style="margin:4px; padding:4px;color:#ffffff; background-color:#260574"> hey! salad here. welcome to this shoddy webpage</h1>
+      
+        <p style="margin-left:4px">i have like no experience with coding</p>
+
+        <img style="border-radius:16px;object-fit:cover;margin-left:4px" src="./PXL_20251231_023427251.MP (1).jpg" alt="my cat sesame" width="180" height="239">
+
+        <h2 style="margin:4px; padding:4px; color:#48cc46 ;background-color:#d68c1c">about me</h2>
+      
+        <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font: size 32px;margin-left:4px">as you can see, i have a cat<br>
+        i'm also a <img src="https://philharmonia-assets.s3.eu-west-1.amazonaws.com/uploads/2020/01/20092901/09_bassoon_flat-960x600.jpg" alt="a bassoon" width="16" height="10" style="object-fit:cover">bassoonist and overall a big music guy<br>
+        huge fan of <img src="https://jamies.page/images/redhrt.png" width="10" height="10"><img src="https://jamies.page/images/grnhrt.png" width="10" height="10"><a href="https://jamies.page">jamie paige</a> and <a href="https://heavenpierceher.bandcamp.com">heaven pierce her</a><br>
+        i have much to say about my favorite artists feel free to ask<br>
+        you can usually catch me playing something like slay the spire or warframe too if you're into that<br>
+        that's about it<br>
+        have a good day twin</p>
+        </div>
+        
+    </body>
+</html>
