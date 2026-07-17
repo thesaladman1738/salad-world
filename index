@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
     <head>
-        <link href="style.css">
+        <link rel="stylesheet" href="style.css">
         <title>salad's world</title>
     </head>
 
@@ -38,7 +38,7 @@
             <h2>socials</h2>
             <p class="bodyText"><img src="https://cdn-icons-png.flaticon.com/512/733/733635.png" width="10" height="10"> <a href="https://x.com/salad_do_stuff">twitter</a><br>
             <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-black-icon.png" width="10" height="10"> discord: the_salad_man<br>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="10" height="10"> <a href="https://www.youtube.com/saladgaming4339">youtube</a></p>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="10" height="10"> <a href="https://www.youtube.com/@saladgaming4339">youtube</a></p>
         </section>
         
         
