@@ -1,0 +1,14 @@
+
+.blueboxes {
+    background-color:rgb(61, 161, 255);
+    color:#ffffff;
+    padding-left:4px;
+    margin-top:4px;
+    width:fit-content
+}
+
+.bodyText {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font: size 32px;
+    margin-left:4px
+}
